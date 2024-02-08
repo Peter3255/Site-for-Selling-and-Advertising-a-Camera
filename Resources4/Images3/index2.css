@@ -1,0 +1,296 @@
+
+
+@media only screen and (max-width: 700px) {
+    .menu {
+        display: none;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 532px) {
+.bannerPic {
+    width: 32rem;
+}
+}
+
+
+@media only screen and (max-width: 532px) {
+    .gray {
+        width: 32rem;
+    }
+    }
+        
+    @media only screen and (max-width: 532px) {
+        .white {
+            width: 13rem;
+            height: 24rem;
+            position: absolute;
+            top: 325px;
+            left: 30px;
+        }
+        }
+
+        @media only screen and (max-width: 532px) {
+            .white2 {
+                width: 13rem;
+                height: 24rem;
+                position: absolute;
+                top: 325px;
+                left: 260px;
+            }
+            }
+            
+            @media only screen and (max-width: 532px) {
+            .picture {
+                width: 10rem;
+                height: 10rem;
+                position: absolute;
+                top: 20px;
+                left: 25px;
+                }
+            }
+
+            @media only screen and (max-width: 532px) {
+               .picture2 {
+                width: 10rem;
+                height: 10rem;
+                position: absolute;
+                top: 345px;
+                left: 285px;
+                }
+            }
+
+            @media only screen and (max-width: 532px) {
+                .fotomatic {
+                position: absolute;
+                left: 25px;
+                bottom: 528px;
+                font-size: 1.2rem;
+                color: black;
+                }
+            }
+            
+            @media only screen and (max-width: 532px) {
+                header.banner {
+                display: inline-flex;
+                background-color: white;
+                height: 3rem;
+                
+            }
+        }
+
+        @media only screen and (max-width: 532px) {
+            .ProductDetail {
+                position: absolute;
+                left: 165px;
+                font-size: 0.9rem;
+            }
+        }
+
+        @media only screen and (max-width: 532px) {
+            .AboutUs {
+                position: absolute;
+                left: 275px;
+                font-size: 0.9rem;
+
+            }
+        }
+
+        @media only screen and (max-width: 532px) {
+            .FollowUs {
+                position: absolute;
+                left: 355px;
+                font-size: 0.9rem;
+            }
+        }
+
+        @media only screen and (max-width: 532px) {
+            .icon {
+                position: absolute;
+                left: 425px;
+                font-size: 0.9rem;
+                top: 12px;
+            }
+        }
+
+        @media only screen and (max-width: 532px) {
+            .darkgray 
+                {
+                    position: absolute;
+                    top: 732px;
+                    width: 32rem;
+                    height: 16rem;
+                }
+            }
+
+            @media only screen and (max-width: 532px) {
+               .smallerTitle3 {
+                   position: absolute;
+                   top: 50px;
+                   left: 40px;
+                   font-size: 0.8rem;
+                }
+            }
+           
+        
+            @media only screen and (max-width: 532px) { 
+               .smallerTitle4 {
+                position: absolute;
+                left: 210px;
+                top: 68px;
+                font-size: 0.8rem;
+                }
+            }
+
+            @media only screen and (max-width: 532px) {
+                .Title4 {
+                font-size: 1rem;
+                top: 29px;
+                left: 140px;
+                }
+            }
+            
+
+                
+
+                @media only screen and (max-width: 532px) {
+                    .picture3 {
+                        width: 8rem;
+                        height: 8rem;
+                        position: absolute;
+                        bottom: 1px;
+                        left: 1px;
+                    }
+                }
+
+                @media only screen and (max-width: 532px) {
+                    .picture4 {
+                        width: 8rem;
+                        height: 8rem;
+                        position: absolute;
+                        bottom: 1px;
+                        left: 129px;
+                    }
+                }
+
+                @media only screen and (max-width: 532px) {
+                    .picture5 {
+                        width: 8rem;
+                        height: 8rem;
+                        bottom: 1px;
+                        left: 257px;
+                    }
+                }
+
+                @media only screen and (max-width: 532px) {
+                    .picture6 {
+                        width: 8rem;
+                        height: 8rem;
+                        bottom: 1px;
+                        left: 385px;
+                    }
+                }
+
+
+                
+                
+                @media only screen and (max-width: 532px) {
+                    .smallerTitle  {
+                      
+                      }
+                  }
+
+                  
+                @media only screen and (max-width: 532px) {
+                    div.gray {
+                        height: 20rem;
+                        width: 32rem;
+                    }
+                }
+
+                @media only screen and (max-width: 532px) {
+                    .title2 {
+                     position: absolute;
+                     top: 185px;
+                     left: 5px;
+                     font-size: 1.5rem;
+                     }
+                 }
+         
+                 @media only screen and (max-width: 532px) {
+                    .smallerTitle {
+                     position: absolute;
+                     top: 285px;
+                     left: 1px;
+                     font-size: 0.9rem;
+                     }
+                 }
+         
+                 @media only screen and (max-width: 532px) {
+                     .title3 {
+                      position: absolute;
+                      top: 510px;
+                      left: 265px;
+                      font-size: 1.5rem;
+                      }
+                  }
+          
+                  @media only screen and (max-width: 532px) {
+                     .smallerTitle2 {
+                      position: absolute;
+                      top: 610px;
+                      left: 245px;
+                      font-size: 0.9rem;
+                      }
+                  }
+         
+                  @media only screen and (max-width: 532px) {
+                     .gray2, .copyright {
+                        width: 32rem;
+                         }
+                     }
+
+                  
+
+
+                  @media only screen and (max-width: 532px) {
+                   .logo {
+                        position: absolute;
+                        left: 360px;
+                        top: 1025px; 
+                    }
+                  }
+
+                  @media only screen and (max-width: 532px) {
+                    .BottomNote {
+                        position: absolute;
+                        top: 1100px;
+                        left: 15px;
+                    }
+                  }
+   
+                  @media only screen and (max-width: 532px) {
+                    .BottomNote2 {
+                        position: absolute;
+                        top: 1100px;
+                        left: 400px;
+                    }
+                  }
+         
+                  @media only screen and (max-width: 532px) {
+                    .title5 {
+                        font-size: 0.7rem;
+                        position: absolute;
+                        top: 1020px;
+                        right: 190px;
+                    }
+                  }
+         
+      
+                
+            
+
+        
+                

@@ -1,0 +1,404 @@
+html,
+body {
+    font-size: 16px;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+.grid {
+    display: block;
+    
+}
+
+.banner {
+    display: inline-flex;
+    background-color: white;
+    height: 50px;
+    
+}
+
+.ProductDetail {
+    position: absolute;
+    left: 1015px;
+    font-family: 'Roboto-Regular',sans-serif;
+}
+
+.AboutUs {
+    position: absolute;
+    left: 1150px;
+    font-family: 'Roboto-Regular',sans-serif;
+}
+
+.FollowUs {
+    position: absolute;
+    left: 1250px;
+    font-family: 'Roboto-Regular',sans-serif;
+}
+
+.icon {
+    position: absolute;
+    left: 1330px;
+}
+
+.fotomatic {
+    color:#4A4A4A;
+    font-size: 24px;
+    font-family: 'Roboto-Mono-Regular',sans-serif;
+    position: absolute;
+    left: 30px;
+    bottom: 580px;
+}
+
+.camera {
+    color: white;
+    font-size: 50px;
+    font-family: 'Rubik-Regular';
+}
+
+.menu {
+    background-color: #9DC20A;
+    border: 1px solid #979797;
+    border-radius: 4px;
+    width: 568px;
+    height: 360px;
+    position: absolute;
+    top: 230px;
+    left: 100px;
+    text-align: center;
+   
+
+}
+
+.buttonBackground {
+    background-color: #4A4A4A;
+    height: 64px;
+    width: 408px;
+    border-radius: 4px;
+    position: absolute;
+    left: 80px; 
+}
+ 
+    
+
+
+.formatCamera {
+    color: white;
+    font-size: 50px;
+    font-family: 'Rubik-Regular',sans-serif;
+    
+}
+
+.emailUs {
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto-Regular',sans-serif;
+    
+}
+
+.emailUs2 {
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto-Regular';
+    line-height: 0.4;
+    font-family: 'Roboto-Regular',sans-serif;
+    
+}
+
+.join {
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto-Medium',sans-serif;
+    
+}
+
+
+.gray {
+    background-color: gainsboro;
+    height: 703px;
+    display: grid;
+    grid-template-rows: repeat (6, 1fr);
+
+}
+
+
+
+.white {
+    background-color: whitesmoke;
+    height: 620px;
+    width: 629px;
+    grid-column-start: 2;
+    grid-column-end: 9;
+    grid-row-start: 15;
+    grid-row-end: 14;
+   
+
+    
+}
+
+
+
+.picture {
+    position: absolute;
+    left: 130px;
+    top: 864px;
+}
+
+.smallerTitle {
+    position: absolute;
+    top: 1360px;
+    left: 180px;
+    color: #4A4A4A;
+    font-size: 16px;
+    font-family: 'Roboto-Light', sans-serif;
+    
+}
+
+.title2 {
+    position: absolute;
+    top: 1305px;
+    left: 175px;
+    color: #4a4a4a;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.picture2 {
+    position: absolute;
+    left: 805px;
+    top: 864px;
+}
+
+
+.white2 {
+    background-color: whitesmoke;
+    height: 620px;
+    width: 645px;
+    position: absolute;
+    left: 765px;
+    top: 830px;
+}
+
+.title3 {
+    position: absolute;
+    left: 860px;
+    top: 1305px;
+    color: #4a4a4a;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.smallerTitle2 {
+    position: absolute;
+    left: 845px;
+    top: 1360px;
+    color: #4A4A4A;
+    font-size: 16px;
+    font-family: 'Roboto-Light', sans-serif;
+    text-align: center;   
+}
+
+.darkgray {
+    display: grid;
+    height: 615px;
+    width: 1440px;
+    max-width: cover;
+    background-color:#4A4A4A;
+    position: absolute;
+    top: 1500px;
+}
+
+.picture3 {
+    position: absolute;
+    bottom: 60px;
+    left: 10px;  
+}
+
+.picture4 {
+    position: absolute;
+    bottom: 60px;
+    left: 345px;
+}
+
+.picture5 {
+    position: absolute;
+    bottom: 60px;
+    left: 682px
+}
+
+.picture6 {
+    position: absolute;
+    bottom: 60px;
+    left: 1019px
+}
+
+.Title4 {
+    color: white;
+    opacity: 100%;
+    font-size: 36px;
+    font-family: 'Roboto-Bold', sans-serif;
+    left: 435px;
+    top: 35px;
+    position: absolute;
+}
+
+.smallerTitle3 {
+    color: white;
+    font-size: 16px;
+    top: 100px;
+    position: absolute;
+    top: 95px;
+    left: 435px;
+    font-family: 'Roboto-light', sans-serif;
+}
+
+.smallerTitle4 {
+    color: white;
+    font-size: 16px;
+    top: 117px;
+    position: absolute;
+    left: 636px;
+    font-family: 'Roboto-light', sans-serif;
+}
+
+.gray2 {
+    height: 150px;
+    width: 1440px;
+    background-color: gainsboro;
+}
+
+.title5 {
+    position: absolute;
+    color:#4A4A4A;
+    font-size: 30px;
+    position: absolute;
+    left: 65px;
+    top: 2175px;
+}
+
+.copyright {
+    background-color: #9b9b9b;
+    width: 1440px;
+    height: 50px;
+    color: white;
+    font-size: 12px;
+}
+
+.logo {
+    position: absolute;
+    left: 1145px;
+    top: 2205px;  
+}
+
+.BottomNote {
+    position: absolute;
+    left: 40px;
+    top: 2320px;
+    color: white;
+    font-size: 12px;
+    font-family: 'Roboto-Regular',sans-serif; 
+}
+
+.BottomNote2 {
+    position: absolute;
+    left: 1255px;
+    top: 2320px;
+    font-family: 'Roboto-Regular',sans-serif;
+}
+
+@media only screen and (max-width: 1440px) {
+    .smallerJoin, .joinText {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    .green {
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 1440px) {
+    .J {
+        display: none;
+    }
+}
+
+    
+.green {
+            
+    background-color: #9DC20A;
+    border: 1px solid #979797;
+    border-radius: 4px;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    line-height: 0.1;
+        }
+
+.J {
+    color: white;
+}
+    
+        
+        
+        @media only screen and (max-width: 532px) {
+            .green {
+                display: block;
+                position: absolute;
+                left: 450px;
+                top: 7px;
+            }
+        }      
+
+        @media only screen and (max-width: 532px) {
+           .J {
+            display: block;
+            position: absolute;
+            left: 10px;
+            bottom: 0.5px;
+            }
+        }
+
+        @media only screen and (max-width: 1440px) {
+            .instant2 {
+            display: none;
+            }
+        }
+
+        @media only screen and (max-width: 532px) {
+            .instant2 {
+            display: block;
+            position: absolute;
+            top: 105px;
+            left: 203px;
+            color: white;
+            }
+        }
+        
+        @media only screen and (max-width: 1440px) {
+            .formatCamera2 {
+            display: none;
+            }
+        }
+
+        @media only screen and (max-width: 532px) {
+            .formatCamera2 {
+            display: block;
+            position: absolute;
+            top: 145px;
+            left: 105px;
+            color: white;
+            }
+        }
+
+        
+
+        
